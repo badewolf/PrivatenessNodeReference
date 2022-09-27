@@ -12,13 +12,13 @@
 * User info and user public keys are stored in blockchain
 * Node info and node public key are stored in blockchain
 ## Encryption
-* User has keypair(s) to encrypt-descrypt messages and files also sign messages and files.
+* User has keypair(s) to encrypt-decrypt messages and files also sign messages and files.
 * The communication between User and User is encrypted and signed also communication between User and Node is encrypted and signed
-* The user also can have simmetrical ciphers for different purpuses.
+* The user also can have symetrical ciphers for different purposes.
 * The Node does not see communication between Users
 ## Coin-Hours as a payment system
 The Ness Coins generate Coin-Hours and it is main payment method. 
-The User pays with Coin-Hours for time he user the Node.
+The User pays with Coin-Hours for time he uses the Node.
 # Instalation
 The Node works on the top of Emercoin and Privateness blockchains.
 
